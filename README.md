@@ -3,13 +3,17 @@ A friendly introduction to how A11YChi works
 
 ---
 
-## The Basics
+## About A11YChi
 
 ### Purpose & Mission of A11YChi
 
 ### Background of A11YChi
 
+---
+
 ## Onboarding Checklist 
+
+---
 
 ## Organizers
 
@@ -36,5 +40,6 @@ A friendly introduction to how A11YChi works
 | Live-captioning Lead         | 1) Ensure live-captioning quality, e.g. check for lagging and typos; 2) Check chatroom for questions/comments                         | Nick (Primary); Others   |
 | Live-streaming Lead          | 1) Ensure live-streaming quality, e.g. check for lagging and disconnection; 2) Check chatroom for questions/comments                  | Nick (Primary); Others   |
 
+---
 
 ## References and Resources for Inclusive Onboarding
