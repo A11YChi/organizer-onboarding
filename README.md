@@ -1,3 +1,5 @@
+_This document is currently in draft_
+
 # organizer-onboarding
 A friendly introduction to how A11YChi works
 
