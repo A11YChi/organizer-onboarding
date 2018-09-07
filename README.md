@@ -81,4 +81,8 @@ A11YChi is an environment where one should feel encouraged to share their unique
 
 ---
 
+## Feedback regarding this Onboarding Document
+
+---
+
 ## References and Resources for Inclusive Onboarding
