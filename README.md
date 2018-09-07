@@ -21,7 +21,7 @@ A friendly introduction to how A11YChi works
 
 | Role                         | Description                                                                                                                    | Delegated                |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| Social Media                 | Promote A11YChi and share links about accessibility and inclusive design                                                       |                          |
+| Social Media                 | Promote A11YChi and share links about accessibility and inclusive design                                                       | Fen; Dennis              |
 | Venue Booking                | Find and contact a venue to host a meetup talk                                                                                 | Nick (Primary); others   |
 | Speaker Booking              | Set up and help speakers become familiar with how A11YChi meetups work, e.g. sharing the guideline on accessible presentations | Nick (Primary); others   |
 | Live Captions Booking        | 1) Set up and coordinate with ACS Captions; 2) Share slidedecks beforehand to help captioner(s) be familiar with the talk      | Dennis; Nick             |
@@ -35,10 +35,14 @@ A friendly introduction to how A11YChi works
 
 | Role                         | Description                                                                                                                           | Delegated                |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| Audio/Video Lead             | 1) Check/coordinate with venue host for A/V quality; 2) Bring equipments for live-streaming; 3) Ensure A/V quality for live-streaming |                          |
-| Emcee Lead                   |                                                                                                                                       |                          |
+| Audio/Video Lead             | 1) Check/coordinate with venue host for A/V quality; 2) Bring equipments for live-streaming; 3) Ensure A/V quality for live-streaming | Dennis (Primary); Others |
+| Emcee Lead                   |                                                                                                                                       | Fen; Dennis              |
 | Live-captioning Lead         | 1) Ensure live-captioning quality, e.g. check for lagging and typos; 2) Check chatroom for questions/comments                         | Nick (Primary); Others   |
 | Live-streaming Lead          | 1) Ensure live-streaming quality, e.g. check for lagging and disconnection; 2) Check chatroom for questions/comments                  | Nick (Primary); Others   |
+| Online/Social Presence       | Check, post and share social media presence regarding #A11YChi                                                                        |                          |
+| Lanyards                     | Bring lanyards for media policy, i.e. for those who prefer not to be photographed                                                     | Nick (Primary); Dennis   |
+| Event Experience             | 1) Maintain comfortable experience for venue host and attendees; 2) Enforce Code of Conduct; 3) Resolve any circumstances that create inaccessible experience | All   |                                                  | Nick (Primary); Dennis   |
+
 
 ---
 
