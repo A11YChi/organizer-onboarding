@@ -5,7 +5,7 @@ A friendly introduction to how A11YChi works
 
 ## About A11YChi
 
-### Purpose & Mission of A11YChi
+### Core Values of A11YChi
 
 ### Background of A11YChi
 
@@ -30,7 +30,7 @@ Before becoming an organizer, you must read and agree to A11YChi's [Code of Cond
 
 ## Expecations: Understanding and Empathy
 
-[Briefly explain the purpose behind this section]
+A11YChi is an environment where one should feel encouraged to share their unique perspectives, leverage their strengths, and act authentically. [Briefly explain more]
 
 1. Establish how you would prefer to be addressed and contacted
     - What is your preferred pronouns to be identified as when we communicate with you? If you do not want to share, it's totally okay.
@@ -38,11 +38,13 @@ Before becoming an organizer, you must read and agree to A11YChi's [Code of Cond
 2. Notify us that if there is any circumstance that will prevent you from fulfilling your task(s), either between or during meetups. [Note: Clarify more how this would work]
 3. Inform us if you are in need of rest/break from organizing [Note: Clarify more how this would work]
 
+## Conflicts and Disagreements
+
+[Note: When conflicts and disagreements happen, how to handle; [check out Project Include on conflicts](http://projectinclude.org/resolving_conflicts)]
+
 ## Offboarding Checklist 
 
 [Briefly explain the purpose behind this section, e.g. just as A11YChi works to ensure good experience joining A11YChi, we also want to ensure that your exit is also a good experience]
-
-
 
 ---
 
