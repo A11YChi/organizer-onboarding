@@ -1,7 +1,7 @@
 _This document is currently in draft_
 
 # organizer-onboarding
-A friendly introduction to how A11YChi works
+A friendly introduction to how A11YChi works [Note: make language in this doc more friendly and easy to understand]
 
 ---
 
@@ -12,7 +12,7 @@ A friendly introduction to how A11YChi works
 ### Background of A11YChi
 
 ---
-Before becoming an organizer, you must read and agree to A11YChi's [Code of Conduct (CoC)](https://github.com/A11YChi/Code-of-Conduct). After agreement, you'll have an onboarding buddy (OB) to guide you through the process.
+Before proceeding, read and agree to A11YChi's [Code of Conduct (CoC)](https://github.com/A11YChi/Code-of-Conduct). After agreement, you'll have an onboarding buddy (OB) to guide you through the process.
 
 ## Onboarding Checklist
 
