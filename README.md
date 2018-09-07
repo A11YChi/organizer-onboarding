@@ -10,20 +10,53 @@ A friendly introduction to how A11YChi works
 ### Background of A11YChi
 
 ---
+Before becoming an organizer, you must read and agreed to A11YChi's [Code of Conduct (CoC)](https://github.com/A11YChi/Code-of-Conduct). After agreement, you'll have an onboarding buddy (OB) to guide you through the process.
 
-## Onboarding Checklist 
+## Onboarding Checklist
+
+[Briefly explain the purpose behind this section]
+
+- [ ] Join A11YChi organizing team on [Meetup](https://www.meetup.com/a11ychi)
+    1. An OB will grant you an organizer role on Meetup
+    2. An OB will help you become familiar with how to schedule an event, announce an event, check RSVP list, etc.
+- [ ] Join A11YChi Slack for organizers
+    1. Fill out your Slack profile
+    2. An OB will introduce you to the channels and how they work
+    3. When you are ready, introduce yourself(!), jump in with ideas, and share what you'd like to do
+- [ ] Join [A11YChi team on GitHub](https://github.com/A11YChi)
+    1. An OB will add you to the GitHub team
+    2. Accept the invite
+    3. An OB will help you become familiar with ongoing projects and how it works
+
+## Expecations: Understanding and Empathy
+
+[Briefly explain the purpose behind this section]
+
+1. Establish how you would prefer to be addressed and contacted
+    - What is your preferred pronouns to be identified as when we communicate with you? If you do not want to share, it's totally okay.
+    - Do you have a preferred communication channel(s), e.g. Slack, email, text, that we'll contact you if an urgent matter arises?
+2. Notify us that if there is any circumstance that will prevent you from fulfilling your task(s), either between or during meetups. [Note: Clarify more how this would work]
+3. Inform us if you are in need of rest/break from organizing [Note: Clarify more how this would work]
+
+## Offboarding Checklist 
+
+[Briefly explain the purpose behind this section, e.g. just as A11YChi works to ensure good experience joining A11YChi, we also want to ensure that your exit is also a good experience]
+
+
 
 ---
 
 ## Organizers
+
+- Name (Preferred Pronouns), Background Profession/Interests
 
 ### Roles Between Meetups
 
 | Role                         | Description                                                                                                                    | Delegated                |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------|
 | Social Media                 | Promote A11YChi and share links about accessibility and inclusive design                                                       | Fen; Dennis              |
-| Venue Booking                | Find and contact a venue to host a meetup talk                                                                                 | Nick (Primary); others   |
-| Speaker Booking              | Set up and help speakers become familiar with how A11YChi meetups work, e.g. sharing the guideline on accessible presentations | Nick (Primary); others   |
+| Venue Booking                | 1) Find and contact a venue to host a meetup talk; 2) Ensure an [accessibility experience](https://github.com/A11YChi/Venue-Checklist) at the venue | Nick (Primary); others   |
+| Speaker Booking              | Set up and help speakers become familiar with how A11YChi meetups work, e.g. sharing the [guideline on accessible presentations](https://github.com/A11YChi/A11Y-Presentations) | Nick (Primary); others   |
 | Live Captions Booking        | 1) Set up and coordinate with ACS Captions; 2) Share slidedecks beforehand to help captioner(s) be familiar with the talk      | Dennis; Nick             |
 | ASL Interpreter(s) Booking   | Set up and coordinate with interpreter(s) for Deaf/Hard-of-Hearing/DeafBlind                                                   | Dennis; Nick             |
 | Leads for speaker            | Find and contact potential speakers for accessibility and inclusive design talks                                               | All                      |
