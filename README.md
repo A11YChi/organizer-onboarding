@@ -10,7 +10,7 @@ A friendly introduction to how A11YChi works
 ### Background of A11YChi
 
 ---
-Before becoming an organizer, you must read and agreed to A11YChi's [Code of Conduct (CoC)](https://github.com/A11YChi/Code-of-Conduct). After agreement, you'll have an onboarding buddy (OB) to guide you through the process.
+Before becoming an organizer, you must read and agree to A11YChi's [Code of Conduct (CoC)](https://github.com/A11YChi/Code-of-Conduct). After agreement, you'll have an onboarding buddy (OB) to guide you through the process.
 
 ## Onboarding Checklist
 
@@ -74,7 +74,7 @@ Before becoming an organizer, you must read and agreed to A11YChi's [Code of Con
 | Live-streaming Lead          | 1) Ensure live-streaming quality, e.g. check for lagging and disconnection; 2) Check chatroom for questions/comments                  | Nick (Primary); Others   |
 | Online/Social Presence       | Check, post and share social media presence regarding #A11YChi                                                                        |                          |
 | Lanyards                     | Bring lanyards for media policy, i.e. for those who prefer not to be photographed                                                     | Nick (Primary); Dennis   |
-| Event Experience             | 1) Maintain comfortable experience for venue host and attendees; 2) Enforce Code of Conduct; 3) Resolve any circumstances that create inaccessible experience | All   |                                                  | Nick (Primary); Dennis   |
+| Event Experience             | 1) Maintain comfortable experience for venue host and attendees; 2) Enforce Code of Conduct; 3) Resolve any circumstances that create inaccessible experience, e.g. no reserved areas for those with mobility devices | All   |                                                  | Nick (Primary); Dennis   |
 
 
 ---
