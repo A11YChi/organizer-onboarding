@@ -46,13 +46,13 @@ A11YChi is an environment where one should feel encouraged to share their unique
 
 ### Communications
 
-- Asynchronous first, real-time second (In-person meetings as the last resort)
-- Reasonable expectations to protect the organizers' time and attention
-- Timeframe for responding: [Note: Determine what's the reasonable timeframe - 48-hour?]
+- Asynchronous first, real-time second; while in-person meetings as the last resort
+- Reasonable expectations to protect the organizers' time and attention for their family, friends and/or other life responsibilities 
+- Timeframe for responding for feedbacks: [Note: Determine what's the reasonable timeframe - 48-hour minimally?]
 
 1. Establish how you would prefer to be addressed and contacted
     - What is your pronouns to be identified as when we communicate with you? If you do not want to share, it's totally okay.
-    - Do you have a preferred communication channel(s), e.g. Slack, email, text, that we'll contact you if an urgent matter arises?
+    - If an urgent matter arises [Note: Discuss what makes an "urgent matter"?], do you have a preferred communication channel(s), e.g. Slack, email, text, that we'll contact you?
         - [Note: Determine the max amount of contact]
 2. Notify us that if there is any circumstance that will prevent you from fulfilling your task(s), either between or during meetups. [Note: Clarify more how this would work]
 3. Inform us if you are in need of rest/break from organizing [Note: Clarify more how this would work]
