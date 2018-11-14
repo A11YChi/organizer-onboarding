@@ -32,15 +32,28 @@ Before proceeding, read and agree to A11YChi's [Code of Conduct (CoC)](https://g
 - [ ] Become familiar with how A11YChi handles meetup logistics
     1. An OB will walk through with you on [Meetup Event Logistics](https://github.com/A11YChi/meetup-event-logistics)
         - If relevant to your role, you may want to read [Live Stream Setup](https://github.com/A11YChi/Live-Stream-Setup), [Social Media](https://github.com/A11YChi/social-media), [Venue Checklist](https://github.com/A11YChi/Venue-Checklist), or [A11Y Presentations](https://github.com/A11YChi/A11Y-Presentations) 
-    2. An OB will answer any questions you may have
+    2. An OB will answer any questions you have
+
+### Follow up
+
+- [ ] An OB will check in with you periodically based on how often you'd like, e.g. once a month, a season, etc.
 
 ## Expecations: Understanding and Empathy
 
 A11YChi is an environment where one should feel encouraged to share their unique perspectives, leverage their strengths, and act authentically. [Briefly explain more]
 
+- A11YChi interacts with many diverse abilities [Note: Discuss more deeply about consent, phrasing, etc. Basically, how do we as organizers make A11YChi meetups always inclusive]
+
+### Communications
+
+- Asynchronous first, real-time second (In-person meetings as the last resort)
+- Reasonable expectations to protect the organizers' time and attention
+- Timeframe for responding: [Note: Determine what's the reasonable timeframe - 48-hour?]
+
 1. Establish how you would prefer to be addressed and contacted
     - What is your pronouns to be identified as when we communicate with you? If you do not want to share, it's totally okay.
     - Do you have a preferred communication channel(s), e.g. Slack, email, text, that we'll contact you if an urgent matter arises?
+        - [Note: Determine the max amount of contact]
 2. Notify us that if there is any circumstance that will prevent you from fulfilling your task(s), either between or during meetups. [Note: Clarify more how this would work]
 3. Inform us if you are in need of rest/break from organizing [Note: Clarify more how this would work]
 
