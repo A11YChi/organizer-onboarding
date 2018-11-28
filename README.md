@@ -6,10 +6,12 @@ A friendly introduction to how A11YChi works [Note: make language in this doc [p
 ---
 
 ## About A11YChi
+The Chicago Digital Accessibility & Inclusive Design Meetup (A11YChi) is a community of digital professionals interested in becoming aware of, and learn more about digital accessibility and inclusive design, as it pertains to their role and work. We meet, on average, ten times a year, offering both local and international speakers, presenting on topics related to Digital Accessibility & Inclusive Design. Meetup event are free of charge and are live streamed to extend our reach.
 
 ### Core Values of A11YChi
 
 ### Background of A11YChi
+The Chicago Digital Accessibility & Inclusive Design Meetup (A11YChi) was created by Dennis Deacon (Organizer) in December 2014. He created it as a way to meet other digital professionals working with accessibility. At the time, Dennis was working at United Airlines, who was mandated by the Department of Transportation to be accessible via the Air Carriers Access Act (ACAA).
 
 ---
 Before proceeding, read and agree to A11YChi's [Code of Conduct (CoC)](https://github.com/A11YChi/Code-of-Conduct). After agreement, you'll have an onboarding buddy (OB) to guide you through the process.
