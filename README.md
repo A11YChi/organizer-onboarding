@@ -85,7 +85,7 @@ A11YChi is an environment where one should feel encouraged to share their unique
 
 | Role                         | Description                                                                                                                    | Delegated                |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| Social Media                 | Promote A11YChi and share links about accessibility and inclusive design                                                       | Dennis                   |
+| Social Media                 | Promote A11YChi and share links about accessibility and inclusive design                                                       | N/A (Dennis, as backup)                   |
 | Venue Booking                | 1) Find and contact a venue to host a meetup talk; 2) Ensure an [accessibility experience](https://github.com/A11YChi/Venue-Checklist) at the venue | Nick (Primary); others   |
 | Speaker Booking              | Set up and help speakers become familiar with how A11YChi meetups work, e.g. sharing the [guideline on accessible presentations](https://github.com/A11YChi/A11Y-Presentations) | Nick (Primary); others   |
 | Live Captions Booking        | 1) Set up and coordinate with ACS Captions; 2) Share slidedecks beforehand to help captioner(s) be familiar with the talk      | Dennis; Nick             |
@@ -103,7 +103,7 @@ A11YChi is an environment where one should feel encouraged to share their unique
 | Emcee Lead                   |                                                                                                                                       | Dennis (Primary); Others |
 | Live-captioning Lead         | 1) Ensure live-captioning quality, e.g. check for lagging and typos; 2) Check chatroom for questions/comments                         | Nick (Primary); Others   |
 | Live-streaming Lead          | 1) Ensure live-streaming quality, e.g. check for lagging and disconnection; 2) Check chatroom for questions/comments                  | Nick (Primary); Others   |
-| Online/Social Presence       | Check, post and share social media presence regarding #A11YChi                                                                        | Dennis (Primary); Others |
+| Online/Social Presence       | Check, post and share social media presence regarding #A11YChi                                                                        | N/A, Dennis (backup); Others |
 | Lanyards                     | Bring lanyards for media policy, i.e. for those who prefer not to be photographed                                                     | Nick (Primary); Dennis   |
 | Event Experience             | 1) Maintain comfortable experience for venue host and attendees; 2) Enforce Code of Conduct; 3) Resolve any circumstances that create inaccessible experience, e.g. no reserved areas for those with mobility devices | All   |                                                  | Nick (Primary); Dennis   |
 
