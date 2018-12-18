@@ -51,7 +51,7 @@ A11YChi is an environment where one should feel encouraged to share their unique
 - A11YChi interacts with many diverse abilities [Note: Discuss more deeply about consent, phrasing, etc. Basically, how do we as organizers make A11YChi meetups always inclusive]
 
 ### Communications
-**Note:** Dennis wants to ensure the smooth, high quality meetup events continue without interruption. He needs to know if your engagement with the meetup group might or is changing, for whatever reason, whether temporary (1-7 days) or long term (1-12 months or more). Please be proactive as issues arise. There is no problem with change, as long as we can handle it. We are all human beings with lives that create unexpected challenges. We understand and respect your needs.
+**Note:** Dennis wants to ensure the smooth, high quality meetup events continue without interruption. He needs to know if your engagement with the meetup group might or is changing, for whatever reason, whether temporary (1-7 days) or long term (1-12 months or more). Please be proactive as issues arise. There is no problem with change, as long as we know in advance. We are all human beings with lives that create unexpected challenges. We understand and respect your needs.
 
 We use several different communication platforms to communicate with each other.
 - Slack: for discussions, bringing up ideas, concerns, challenges (non-urgent)
