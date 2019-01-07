@@ -1,6 +1,6 @@
 _This document is currently in draft_
 
-# organizer-onboarding
+# Organizer Onboarding
 A friendly introduction to how A11YChi works [Note: make language in this doc [plain and easy to understand](https://www.plainlanguage.gov/)]
 
 ---
