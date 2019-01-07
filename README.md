@@ -102,6 +102,7 @@ As much as we love having individuls participate in this groups success, otherti
 - Karen Viado - Event Organizer ()
 - Nick Ng - Co-Organizer (he/his)
 - Santina Croniser  (she/her)
+- Mayra Martinez (she/her)
 
 
 ### Roles Between Meetups
